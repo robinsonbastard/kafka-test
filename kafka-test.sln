@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSystem.Consumer", "EventSystem.Consumer\EventSystem.Consumer.csproj", "{9F10B914-A310-49BC-90FB-9FDF09E8E081}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSystem.Dto", "EventSystem.Dto\EventSystem.Dto.csproj", "{FF8922E8-20BF-4EFA-8E29-30B08219E124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSystem.Engine", "EventSystem.Engine\EventSystem.Engine.csproj", "{B3D2E46F-DAA1-4868-B287-54ABE0BE4625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F10B914-A310-49BC-90FB-9FDF09E8E081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F10B914-A310-49BC-90FB-9FDF09E8E081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F10B914-A310-49BC-90FB-9FDF09E8E081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F10B914-A310-49BC-90FB-9FDF09E8E081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF8922E8-20BF-4EFA-8E29-30B08219E124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8922E8-20BF-4EFA-8E29-30B08219E124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8922E8-20BF-4EFA-8E29-30B08219E124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8922E8-20BF-4EFA-8E29-30B08219E124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D2E46F-DAA1-4868-B287-54ABE0BE4625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D2E46F-DAA1-4868-B287-54ABE0BE4625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D2E46F-DAA1-4868-B287-54ABE0BE4625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D2E46F-DAA1-4868-B287-54ABE0BE4625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
